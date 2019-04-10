@@ -24,7 +24,7 @@ namespace Kalkulatorwalut
                 Console.WriteLine(liczby[i]);
             }
 
-            
+            //dfkajdfkoasdjfi idj sdfi asi  a
             
 
             

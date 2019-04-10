@@ -1,0 +1,7 @@
+C:\Users\bwilk\source\repos\Kalkulatorwalut\Kalkulatorwalut\bin\Debug\Kalkulatorwalut.exe.config
+C:\Users\bwilk\source\repos\Kalkulatorwalut\Kalkulatorwalut\bin\Debug\Kalkulatorwalut.exe
+C:\Users\bwilk\source\repos\Kalkulatorwalut\Kalkulatorwalut\bin\Debug\Kalkulatorwalut.pdb
+C:\Users\bwilk\source\repos\Kalkulatorwalut\Kalkulatorwalut\obj\Debug\Kalkulatorwalut.csprojAssemblyReference.cache
+C:\Users\bwilk\source\repos\Kalkulatorwalut\Kalkulatorwalut\obj\Debug\Kalkulatorwalut.csproj.CoreCompileInputs.cache
+C:\Users\bwilk\source\repos\Kalkulatorwalut\Kalkulatorwalut\obj\Debug\Kalkulatorwalut.exe
+C:\Users\bwilk\source\repos\Kalkulatorwalut\Kalkulatorwalut\obj\Debug\Kalkulatorwalut.pdb
